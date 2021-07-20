@@ -9,5 +9,6 @@ public class GitTest {
         System.out.println("Hot-fix first commit2");
         System.out.println("Hot-fix first commit3");
         System.out.println("master second commit");
+        System.out.println("push test!");
     }
 }
